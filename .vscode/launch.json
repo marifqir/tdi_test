@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-TdiTestApplication<tdi_test>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.klasemen.tdi_test.TdiTestApplication",
+            "projectName": "tdi_test",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
